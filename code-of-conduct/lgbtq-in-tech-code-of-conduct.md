@@ -50,7 +50,7 @@ Some LGBTQ in Tech spaces may have additional rules in place, which will be made
  * Pattern of inappropriate social contact, such as requesting/assuming inappropriate levels of intimacy with others
  * Continued one-on-one communication after requests to cease
 
-Jokes that resemble the above, such as ‘hipster racism' are still not allowed, even if meant satirically or ironically. See this article for background.
+Jokes that resemble the above, such as ‘hipster racism' are still not allowed, even if meant satirically or ironically. See [this article](https://web.archive.org/web/20120507221417/http://www.racialicious.com/2012/05/02/a-historical-guide-to-hipster-racism/) for background.
 
 ### LGBTQ in Technology prioritizes marginalized people's safety over privileged people's comfort. The administrators will not act on complaints regarding:
 
