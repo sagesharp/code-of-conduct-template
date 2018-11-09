@@ -41,12 +41,18 @@ Official venue event spaces, including:
   * party suites
   * walkways, hallways, elevators, and stairs that connect any of the above spaces
 
-Official online spaces, including:
+Interactions on official community online spaces:
+
+  * public channels or forums
+  * private channels or forums
+  * direct or private messages
+  * wikis
+
+Interactions with official accounts on social media spaces and phone applications, including:
 
   * comments made on official conference phone apps
   * comments made on event video hosting services
   * comments made on the official event hashtag or panel hashtags
-  * conference forums, chat channels, and wikis
 
 Unofficial spaces [1]:
 
