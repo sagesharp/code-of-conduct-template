@@ -16,11 +16,13 @@ Examples of unacceptable behavior by participants include:
 
 Community members asked to stop any inappropriate behavior are expected to comply immediately.
 
+[REVERSISMS]
+
+[WEAPONS POLICY]
+
 If a participant engages in behavior that violates this code of conduct, the [COMMUNITY] organizers may take any action they deem appropriate, including warning the offender or expulsion from the community and community events with no refund of event tickets.
 
 Thank you for helping make this a welcoming, friendly community for everyone.
-
-[WEAPONS POLICY]
 
 ## Scope
 
