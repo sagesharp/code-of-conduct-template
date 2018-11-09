@@ -48,6 +48,6 @@ This Code of Conduct is licensed under the [Creative Commons Attribution 3.0 Unp
 
 This Code of Conduct was forked from the example policy from [ORIGINAL CODE OF CONDUCT AND ITS LICENSE]
 
-Additional language was added by [ATTRIBUTION OF PEOPLE EDITING THIS DOCUMENT] from:
+Additional language was added by [ATTRIBUTION OF PEOPLE EDITING THIS DOCUMENT]. Language was incorporated from the following Codes of Conduct:
 
 [LIST OF CODES OF CONDUCT AND THEIR LICENSE TERMS]
