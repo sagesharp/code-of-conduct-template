@@ -39,7 +39,7 @@ Official venue event spaces, including:
   * con suite
   * meal areas
   * party suites
-  * hallways, elevators, and stairs that connect any of the above spaces
+  * walkways, hallways, elevators, and stairs that connect any of the above spaces
 
 Official online spaces, including:
 
