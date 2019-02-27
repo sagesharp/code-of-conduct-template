@@ -2,6 +2,8 @@ What follows are examples of possible responses to an incident report. This list
 
 * Nothing, if the behavior was determined to not be a Code of Conduct violation
 * A verbal or emailed warning
+* Requiring that the reported person not send private messages to a community member
+* Requiring that the reported person not join specific chat channels
 * Requiring that the reported person avoid any interaction with, and physical proximity to, another person for the remainder of the event
 * Requiring the reported person not attend evening events
 * Refusal of alcoholic beverage purchases at events
@@ -13,6 +15,9 @@ What follows are examples of possible responses to an incident report. This list
 * Requiring that a person refund any travel grants and similar they received
 * Requiring that a person immediately leave the event and not return
 * Banning a person from future events (either indefinitely or for a certain time period)
+* Removing the reported person from community online chat servers or mailing lists (either indefinitely or for a certain time period)
+* Removing the reported person from admin or moderator rights to community infrastructure
+* Removing a person from leadership of relevant organizations
 * Removing a person from membership of relevant organizations
 * Publishing an account of the incident and (optionally) calling for the resignation of a person from their responsibilities
 
