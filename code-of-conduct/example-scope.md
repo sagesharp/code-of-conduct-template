@@ -7,11 +7,13 @@ People with authority:
  * organizers
  * staff
  * volunteers
+ * maintainers
 
 People with financial power:
 
  * exhibitors
  * vendors
+ * board members
 
 People seen as leaders:
 
@@ -20,10 +22,12 @@ People seen as leaders:
  * tutorial or workshop leaders
  * poster presenters
  * people invited to meetings or summits
+ * reviewers
 
 All key stakeholders:
 
  * attendees
+ * contributors
 
 ## What spaces are covered?
 
