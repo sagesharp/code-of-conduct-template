@@ -73,4 +73,4 @@
 # Attribution
 
 * Code of Conduct template was created by [Otter Tech](https://otter.technology/code-of-conduct-training) and is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/)
-* Credit for the idea of impact vs risk assessment goes to Audrey Eschright of [Safety First PDX](http://safetyfirstpdx.org/)
+* Impact vs risk assessment is licensed under a [Creative Commons Attribution Share-Alike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/) by Audrey Eschright of [Safety First PDX](http://safetyfirstpdx.org/)
