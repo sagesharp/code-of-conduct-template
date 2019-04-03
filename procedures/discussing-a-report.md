@@ -12,7 +12,7 @@
 ## Jurisdiction
 
  * *Is this a Code of Conduct violation?* Is this behavior on our list of inappropriate behavior? Is it borderline inappropriate behavior? Does it violate our community norms?
- * *Did this occur in a space that is within our Code of Conduct's scope?* If the incident occurred outside the community, but a community member's safety may be negatively impacted if no action is taken, the incident may be in scope.
+ * *Did this occur in a space that is within our Code of Conduct's scope?* If the incident occurred outside the community, but a community member's mental health or physical safety may be negatively impacted if no action is taken, the incident may be in scope. Private conversations in community spaces are also in scope.
 
 ## Impact
 
