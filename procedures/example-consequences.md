@@ -1,4 +1,4 @@
-What follows are examples of possible responses to an incident report. This list is is not inclusive, and [COMMUNITY] reserves the right to take any action it deems necessary. Possible responses to an incident include:
+What follows are examples of possible responses to an incident report. This list is not inclusive, and [COMMUNITY] reserves the right to take any action it deems necessary. Possible responses to an incident include:
 
 * Nothing, if the behavior was determined to not be a Code of Conduct violation
 * A verbal or emailed warning
