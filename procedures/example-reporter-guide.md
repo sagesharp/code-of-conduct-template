@@ -27,7 +27,9 @@ If you believe someone has violated the [COMMUNITY] Code of Conduct, we encourag
 
 ## Report Data
 
-If you make a report via email or phone, please include:
+If you make a report via email or phone, we hope you can provide us with some information that will help us identify the reported person. If you don’t remember all the details, we still encourage you to make a report.
+
+We encourage you to include the following information in your report:
 
 * Your contact info (so we can get in touch with you if we need to follow up)
 * Date and time of the incident
