@@ -33,14 +33,22 @@ We encourage you to include the following information in your report:
 
 * Your contact info (so we can get in touch with you if we need to follow up)
 * Date and time of the incident
-* Location of incident [for online communities], including which part of the online community space it occurred in
-* [For online spaces] Any links to the conversation, or logs or screenshots of the conversation
+* Location of incident
 * Whether the incident is ongoing
 * Description of the incident
-* [For events] Identifying information of the reported person: name, physical appearance, height, clothing, voice accent, identifying badge information such as company name, ribbons, or social media handles
-* [For online communities] Identifying information of the reported person: name, online username, handle, email address, or IP address
 * Additional circumstances surrounding the incident
 * Other people involved in or witnesses to the incident and their contact information or description
+
+For an incident that occurred at an event, we encourage you to include the following information:
+
+* Any identifying details you remember about the reported person, such as name, physical appearance, height, clothing, voice accent, or identifying badge information like company name, ribbons, or social media handles
+
+For an incident that occurred in an online community, we encourage you to include the following information:
+
+* Identifying information of the reported person such as name, online username, handle, email address, or IP address
+* Which community and which part of the online community space it occurred in
+* A link to the conversation
+* Any logs or screenshots of the conversation
 
 ## Confidentiality
 
