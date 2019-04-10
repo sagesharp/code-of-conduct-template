@@ -13,13 +13,15 @@ In all cases, documents and notes should only be available to committee members 
 
 Code of Conduct committees need to be able to be reached by one email address. It is recommended that the committee use an alias which forwards email to individual members.
 
-Using a mailing list is not recommended. This is because mailing lists typically archive all emails. This means new committee members gain access to all past archives. They can deliberately or accidentially see for past reports of themselves or friends. In order to prevent potential conflicts of interest, it is recommended to not have a mailing list archive.
+Using a mailing list is not recommended. This is because mailing lists typically archive all emails. This means new committee members gain access to all past archives. They can deliberately or accidentally see past reports where they have a conflict of interest. In order to prevent potential conflicts of interest, it is recommended to not have a mailing list archive.
 
 ## Committee online discussion
 
 A Code of Conduct committee may have an online, real-time discussion forum, such as Slack, Zulip, or IRC. If the online chat platform allows, it is recommended to set the committee channel to have past history not be available to new committee members who join the channel.
 
-When a report comes in and a discussion needs to happen in an online space, care needs to be taken to avoid conflicts of interest. In the committee chat channel, state 'We have a report that involves [REPORTED PERSON]'. Do not say who was the reporter or who were witnesses if the report was sent to an individual committee member. Ask which committee members do not have a conflict of interest. Add those committee members to a group discussion, separate from the committee channel. If a committee member does not respond, do not add them to the new group discussion. If a committee member finds they have a conflict of interest because of who reported the incident or who witnessed it, they should recluse themselves from the discussion.
+When a report comes in and a discussion needs to happen in an online space, care needs to be taken to avoid conflicts of interest. In the committee chat channel, state 'We have a report that involves [REPORTED PERSON]'. Do not say who was the reporter or who were witnesses if the report was sent to an individual committee member. Ask which committee members do not have a conflict of interest.
+
+Add the committee members who don't have a conflict of interest to a group discussion, separate from the committee channel. If a committee member does not respond, do not add them to the new group discussion. If a committee member finds they have a conflict of interest because of who reported the incident or who witnessed it, they should recluse themselves from the discussion.
 
 Committee members should not use bots or IRC bouncers to log the group discussions. All documentation of discussions and decisions should be put in online, shared documentation.
 
