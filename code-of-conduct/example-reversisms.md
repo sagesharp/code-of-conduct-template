@@ -9,6 +9,11 @@
 
 The examples listed above are not against the Code of Conduct.
 
+# Attribution
+
+The reverse-ism text is licensed under a [Creative Commons Zero License](https://creativecommons.org/publicdomain/zero/1.0/) from the [LGBTQ+ in Tech Slack](https://lgbtq.technology/coc.html).
+
+# Alternative
 
 Communities that wish to have a gentler introduction to reverse-isms can include the following text:
 
@@ -27,3 +32,7 @@ Communities that wish to have a gentler introduction to reverse-isms can include
 5. **Avoid critiquing people's tone when they talk about discrimination.** Talking about discrimination and different lived experiences can be difficult. Seeing biased or discriminatory statements can bring up past negative experiences for marginalized groups in our community. These negative experiences often bring up strong emotions, which may lead to the person communicating in a more blunt tone. We encourage community members to acknowledge others' experiences with discrimination, rather than critiquing the tone that people use to communicate about that discrimination.
 
 6. **Understand creating an inclusive culture takes time, energy, and resources.** [COMMUNITY] acknowledges that discrimination, harassment, unconscious bias, and systemic inequality exists. Because of this, people from marginalized groups in our community may have less access to resources or opportunities. It is important for our community to take action and correct these issues. All community change requires resources (such as time, influence, or money). We acknowledge that such resources will be spent towards correcting past bias and discrimination.
+
+# Attribution
+
+The above section "Supporting Diversity" is licensed under the [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/) by Sage Sharp of [Otter Tech](https://otter.technology/code-of-conduct-training/)
