@@ -2,7 +2,7 @@
 
 When discussing a change to the Code of Conduct or enforcement policies, the Code of Conduct committee will follow this decision-making process:
 
-* **Brainstorm options.** Committee members should discuss any relevant context and brainstorm a set of possible options. It is important to provide constructive feedback without getting side-tracked from the main question.
+* **Brainstorm options.** Committee members should discuss any relevant context and brainstorm a set of possible options. It is important to provide constructive feedback without getting side-tracked from the main question. Brainstorming should be limited to 3-7 days maximum.
 * **Vote.** Changes to the Code of Conduct will be decided by a three-fourths majority of all the Code of Conduct committee members.
 
 When evaluating an incident report, the Code of Conduct committee will follow this decision-making process:
