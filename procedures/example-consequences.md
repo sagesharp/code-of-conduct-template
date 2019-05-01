@@ -13,6 +13,8 @@ What follows are examples of possible responses to an incident report. This list
 * Immediately ending any event volunteer responsibilities and privileges the a person holds
 * Requiring that a person not volunteer for future events (either indefinitely or for a certain time period)
 * Requiring that a person refund any travel grants and similar they received
+* Revoking sponsor agreements, refunding sponsorship, and removing sponsor promotion (such as logos or banners)
+* Requiring that sponsor attendees immediately leave the event and not return
 * Requiring that a person immediately leave the event and not return
 * Banning a person from future events (either indefinitely or for a certain time period)
 * Removing the reported person from community online chat servers or mailing lists (either indefinitely or for a certain time period)
