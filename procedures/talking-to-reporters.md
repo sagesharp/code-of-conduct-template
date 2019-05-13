@@ -13,3 +13,7 @@ If there is immediate danger (e.g. occurrence or threat of physical violence), c
 
 [FIXME: Not all event organizers are comfortable with having any incident responder handle unsafe situations. The lead event organizers should make the decision to include this text.]
 If an incident is creating a physically unsafe situation, any incident responder has the power to immediately decide a response without convening a meeting of the Code of Conduct committee. Examples of unsafe situations needing immediate response include: a physical fight, sexual assault or groping, or publishing personal contact information.
+
+# Attribution
+
+* Code of Conduct template was created by [Otter Tech](https://otter.technology/code-of-conduct-training) and is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/)

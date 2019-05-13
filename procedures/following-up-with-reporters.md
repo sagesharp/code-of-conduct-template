@@ -28,3 +28,7 @@ If handling the report takes longer than 1 week, then the committee will need to
  * If the committee is waiting on additional information, give the reporter an estimated timeline for when the committee will finish their discussion. Once the discussion deadline has passed, follow up with a new deadline.
 
 The committee should send an email acknowledging emailed reports or reports via web form within 24 hours. Reporters should receive an email back with the committee’s decisions and actions taken within 1 week. If deliberations are taking longer than a week, you should email the reporter letting them know that the report will take more time to handle.
+
+# Attribution
+
+* Code of Conduct template was created by [Otter Tech](https://otter.technology/code-of-conduct-training) and is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/)
