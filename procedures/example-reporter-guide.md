@@ -84,7 +84,7 @@ Examples of possible incident responses are outlined in the [COMMUNITY] [Procedu
 
 If [an incident responder/Code of Conduct committee member] has a conflict of interest for a report, they will recuse themselves from the discussion and handling of the incident. The incident documentation will not be available to them, and they will excuse themselves from any conversations involving handling the incident.
 
-Should only two [lead incident responders/Code of Conduct committee members] need to recuse themselves, [person] ([title]) will step in as an additional decision maker on the incident.
+Should two or fewer [lead incident responders/Code of Conduct committee members] need to recuse themselves, [person] ([title]) will step in as an additional decision maker on the incident.
 
 ## Following Up With Reporters
 
@@ -92,7 +92,7 @@ Within one week of an incident report, the [lead responders/Code of Conduct comm
 
 * An acknowledgment that the [COMMUNITY] [lead responders/Code of Conduct committee] discussed the situation
 * Whether or not the report was determined to be a violation of the Code of Conduct
-* What actions (if any) were taken to correcting the reporter behavior
+* What actions (if any) were taken to correcting the reported behavior
 
 Sometimes reports take more time to discuss or follow up on. After one week of a report being open, the person who made the report will be provided with a status update. The status update will include a time frame for when the next update will be sent or the time frame in which the report is expected to be resolved.
 
