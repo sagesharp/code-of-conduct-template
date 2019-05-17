@@ -66,15 +66,19 @@ In some cases we may determine that a public statement will need to be made. If 
 
 When you make an incident report via [email or phone], you will receive an acknowledgment of your report within 24 hours of making the report.
 
-[If there is a centralized event CoC committee with other incident responders who take reports.] After an incident responder takes the report, they will immediately consult with the lead incident responders ([NAMES]).
+[If there is a centralized CoC committee with other incident responders who take reports.] After an incident responder takes the report, they will immediately consult with the lead incident responders ([NAMES]).
 
 If the incident is ongoing and needs to be immediately addressed, any one of the lead incident responders may take appropriate action to ensure the safety of everyone involved.
 
-If the incident is less urgent, the three incident leads will meet within 24 hours to determine an appropriate response. Examples of possible incident responses are outlined in the [COMMUNITY] [Procedure For Incident Response](LINK). In some cases, lead responders may need to ask the person who made the report additional questions about the incident.
+[For events] If the incident is less urgent, the [incident leads/committee members] will meet within 24 hours to determine an appropriate response.
+[For online communities] If the incident is less urgent, the [incident leads/committee members] will meet within 1 week to determine an appropriate response.
+In some cases, lead responders may need to ask the person who made the report additional questions about the incident.
 
-Before the conference, staff will have a mandatory meeting where incident response procedures will be outlined. After the conference, all incident responders will attend a debriefing session with the lead responders to discuss all incidents and determine any necessary follow-up actions.
+Examples of possible incident responses are outlined in the [COMMUNITY] [Procedure For Incident Response](LINK).
 
-[/end procedures for centralized event CoC committee with other incident responders.]
+[For events] Before the conference, staff will have a mandatory meeting where incident response procedures will be outlined. After the conference, all incident responders will attend a debriefing session with the lead responders to discuss all incidents and determine any necessary follow-up actions.
+
+[/end procedures for centralized CoC committee with other incident responders.]
 
 ## Conflicts of Interest
 
