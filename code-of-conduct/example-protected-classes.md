@@ -24,6 +24,7 @@
  * level of experience
  * lifestyle: parenting, food, drugs
  * neurodiversity
+ * personal appearance
  * physical appearance
  * pregnancy
  * socio-economic status
