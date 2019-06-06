@@ -29,6 +29,7 @@
  * pregnancy
  * socio-economic status
  * sex characteristics
+ * sexual identity
  * veteran status
 
 # Yellow Flags
