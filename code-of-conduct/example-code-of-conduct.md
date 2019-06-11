@@ -48,6 +48,9 @@ This Code of Conduct is licensed under the [Creative Commons Attribution 3.0 Unp
 
 This Code of Conduct was forked from the example policy from [ORIGINAL CODE OF CONDUCT AND ITS LICENSE]
 
-Additional language was added by [ATTRIBUTION OF PEOPLE EDITING THIS DOCUMENT]. Language was incorporated from the following Codes of Conduct:
+Additional language was added by [ATTRIBUTION OF PEOPLE EDITING THIS DOCUMENT].
 
-[LIST OF CODES OF CONDUCT AND THEIR LICENSE TERMS]
+Language was incorporated and modified from the following Codes of Conduct:
+
+ * [Code of Conduct template](https://github.com/sagesharp/code-of-conduct-template/) is licensed [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/) by [Otter Tech](https://otter.technology/code-of-conduct-training)
+ * [LIST OF OTHER CODES OF CONDUCT AND THEIR LICENSE TERMS]
