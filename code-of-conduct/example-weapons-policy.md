@@ -8,3 +8,4 @@ Attendees are further expected to comply with all state and local laws on this m
 
 Language was incorporated and modified from the following Codes of Conduct:
  * [Affect Conf](https://affectconf.com/coc/) (licensed [CC BY SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)
+ * [Code of Conduct template](https://github.com/sagesharp/code-of-conduct-template/) is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/) by [Otter Tech](https://otter.technology/code-of-conduct-training)
