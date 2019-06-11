@@ -85,6 +85,8 @@ The following protected classes are not recommended for inclusion in a Code of C
  * __opinion__ or __diversity of opinion__ - These are commonly used terms to
    signal a Code of Conduct will not be enforced.
 
-# Example protected classes
+# License and Attribution
 
-  "_PyCon is dedicated to providing a positive conference experience for everyone, regardless of age, gender identity and expression, sexual orientation, disability, physical appearance, body size, ethnicity, nationality, race, or religion (or lack thereof), education, or socio-economic status._"
+Individual words used in protected classes lists come from many Codes of Conduct. Text analysis of the protected classes language should be attributed under:
+
+ * [Code of Conduct template](https://github.com/sagesharp/code-of-conduct-template/) is licensed [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/) by [Otter Tech](https://otter.technology/code-of-conduct-training)
