@@ -80,3 +80,4 @@ Participants asked to stop any inappropriate behavior are expected to comply imm
 Language was incorporated and modified from the following Codes of Conduct:
  * [Contributor Covenant version 1.4](https://www.contributor-covenant.org/version/1/4/code-of-conduct) (licensed [CC BY 4.0](https://github.com/ContributorCovenant/contributor_covenant/blob/master/LICENSE.md))
  *  [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/), licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/).
+ * [Code of Conduct template](https://github.com/sagesharp/code-of-conduct-template/) is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/) by [Otter Tech](https://otter.technology/code-of-conduct-training)
