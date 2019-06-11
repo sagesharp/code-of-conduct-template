@@ -28,6 +28,7 @@
  * socio-economic status [DC]
  * sex characteristics [CC]
  * sexual identity [CC]
+ * tribe [CT]
  * veteran status [DC]
 
 # Yellow Flags
