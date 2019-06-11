@@ -47,3 +47,11 @@
    - _Gracefully accepting constructive criticism_
    - _Focusing on what is best for the community_
    - _Showing empathy towards other community members_"
+
+# License and Attribution
+
+Language was incorporated and modified from the following Codes of Conduct:
+
+ * [Code of Conduct template](https://github.com/sagesharp/code-of-conduct-template/) is licensed [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/) by [Otter Tech](https://otter.technology/code-of-conduct-training)
+ * [Contributor Covenant version 1.4](https://www.contributor-covenant.org/version/1/4/code-of-conduct) is licensed [Creative Commons Attribution 4.0](https://github.com/ContributorCovenant/contributor_covenant/blob/master/LICENSE.md)
+ * [LGBTQ in Technology Slack Code of Conduct](https://lgbtq.technology/coc.html) licensed [Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/)
