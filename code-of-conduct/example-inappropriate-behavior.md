@@ -3,9 +3,13 @@
 ## Common Inappropriate Behavior
 
  * Deliberate intimidation, stalking, or following
- * Harassment of conference participants in any form
+ * Insulting/derogatory comments
  * Sexual language and imagery
  * Sexist, racist, homophobic, transphobic, ableist, or exclusionary jokes
+ * Trolling
+ * Personal or political attacks
+ * Public or private harassment
+ * Publishing others’ private information, such as a physical or electronic address, without explicit permission
  * Unwelcome sexual attention or advances
  * Unwelcome physical contact
  * Violent threats or language directed against another person
@@ -16,12 +20,6 @@
  * Excessive swearing
  * Sustained disruption of talks or other events
  * Other conduct that is inappropriate for a professional audience including people of many different backgrounds
-
-## Example Weapons Policy
-
-No weapons are allowed at conference venues, including but not limited to explosives (including fireworks), guns, and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon.
-
-Attendees are further expected to comply with all state and local laws on this matter.
 
 ## Example Event Inappropriate Behavior List
 
@@ -73,12 +71,12 @@ We want all participants in the [COMMUNITY] community have the best possible exp
  * **Unwelcome sexual attention or behavior that contributes to a sexualized environment.** This includes sexualized comments, jokes or imagery in interactions, communications or presentation materials, as well as inappropriate touching, groping, or sexual advances. Sponsors should not use sexualized images, activities, or other material. Meetup organizing staff and other volunteer organizers should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
  * **Unwelcome physical contact.** This includes touching a person without permission, including sensitive areas such as their hair, pregnant stomach, mobility device (wheelchair, scooter, etc) or tattoos. This also includes physically blocking or intimidating another person. Physical contact or simulated physical contact (such as emojis like “kiss”) without affirmative consent is not acceptable. This includes sharing or distribution of sexualized images or text.
  * **Violence or threats of violence.** Violence and threats of violence are not acceptable - online or offline. This includes incitement of violence toward any individual, including encouraging a person to commit self-harm. This also includes posting or threatening to post other people’s personally identifying information (“doxxing”) online. 
- * **Bringing a weapon to an [COMMUNITY] event.** No weapons are allowed at event venues, including but not limited to explosives (including fireworks), guns, and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon.
  * **Influencing or encouraging inappropriate behavior.** If you influence or encourage another person to violate the Code of Conduct, you may face the same consequences as if you had violated the Code of Conduct.
 
 Participants asked to stop any inappropriate behavior are expected to comply immediately.
 
 # Attribution
 
-Language was incorporated from the following Codes of Conduct:
+Language was incorporated and modified from the following Codes of Conduct:
+ * [Contributor Covenant version 1.4](https://www.contributor-covenant.org/version/1/4/code-of-conduct) (licensed [CC BY 4.0](https://github.com/ContributorCovenant/contributor_covenant/blob/master/LICENSE.md))
  *  [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/), licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/).
