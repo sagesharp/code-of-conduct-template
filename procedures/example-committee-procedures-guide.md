@@ -59,3 +59,11 @@ The audience for this document is the Code of Conduct committee for [COMMUNITY].
 # Off-boarding committee members
 
 [off-boarding-committee-members.md]
+
+## License and Attribution
+
+This Code of Conduct committee procedures guide is licensed under the [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/).
+
+Language was incorporated and modified from the following Code of Conduct procedure guides:
+
+ * [Code of Conduct template](https://github.com/sagesharp/code-of-conduct-template/) is licensed [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/) by [Otter Tech](https://otter.technology/code-of-conduct-training)
