@@ -6,9 +6,7 @@ The audience for this document is the Code of Conduct committee for [COMMUNITY].
 
 # Committee members
 
-[Names of all committee members]
-
-[Names of any additional people who have access to the Code of Conduct reports, or who may be pulled in if too many committee members have a conflict of interest.]
+[committee-members.md]
 
 # On-boarding new committee members
 
