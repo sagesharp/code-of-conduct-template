@@ -12,7 +12,7 @@ The audience for this document is the Code of Conduct committee for [COMMUNITY].
 
 # On-boarding new committee members
 
-[How are new committee members added? What is the term length of the committee members? What is the procedure to vote in new members? What resources do new members need to have access to?]
+[onboarding-committee-members.md]
 
 # Reporting methods
 
