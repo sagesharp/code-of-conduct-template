@@ -10,8 +10,6 @@ Confirmed committee members will be given access to the following committee reso
 
  * [LIST] [Do not link to the location of the resources, but list their general nature. E.g. "Committee private mailing list" or "Committee private forum" or "Reports Google Drive folder"]
 
-Committee members shall serve for a term of one year. After one year, the committee chair will check in with the committee member. If the member confirms they wish to continue serving, their term will be renewed. If the member fails to respond to the chair request communications, they will be removed from the committee and off-boarded.
-
 ## License and Attribution
 
 This Code of Conduct committee procedures guide is licensed under the [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/).
