@@ -8,7 +8,13 @@ Should there be two or fewer committee members, additional committee members wil
 
 Confirmed committee members will be given access to the following committee resources:
 
- * [LIST] [Do not link to the location of the resources, but list their general nature. E.g. "Committee private mailing list" or "Committee private forum" or "Reports Google Drive folder"]
+ * [FIXME this is an example list. Do not link to the location of the resources, but list their general nature.]
+ * Committee mailing lists or Google groups lists
+ * Aliases they use to send committee email
+ * Private forums/chat servers, or private slack/Zulip channels for the committee members
+ * All shared documents (such as Google Docs or private wiki pages) for reports
+ * The shared spreadsheet for report statuses
+ * Event registration data
 
 ## License and Attribution
 
