@@ -15,6 +15,7 @@ Confirmed committee members will be given access to the following committee reso
  * All shared documents (such as Google Docs or private wiki pages) for reports
  * The shared spreadsheet for report statuses
  * Event registration data
+ * Admin/moderator rights on community chat/forums
 
 ## License and Attribution
 
