@@ -1,8 +1,9 @@
 # Transparency reports
 
-Once a quarter, the Code of Conduct committee will provide a public transparency report about the resolved and ongoing reports it has handled.
+Once a quarter, the Code of Conduct committee will provide a public transparency report about the resolved and ongoing reports it has handled. The committee may decide to delay a transparenc
+y report if the timing of releasing a transparency report would jeopardize the privacy of the reporter, the reported person, or third-party witnesses.
 
-The transparency reports will remove any information about the reporter and the reported person. If there is no way to anonymize the report without revealing the identity of the reporter or the reported person, the transparency report will simply note that a report was made.
+The transparency reports will remove any information about the reporter and the reported person. If there is no way to anonymize the report without revealing the identity of the reporter or the reported person, the transparency report will simply note that a report was made. If no reports have been made in the specified time period, the transparency report will state that.
 
 Transparency reports will include:
 
