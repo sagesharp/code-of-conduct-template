@@ -26,6 +26,8 @@
  * *Does this pose a safety risk?* Does the behavior put a person's physical safety at risk? Will this incident severely negatively impact someone's mental health?
  * *Is there a risk of this behavior being repeated?* Does the reported person understand why their behavior was inappropriate? Is there an established pattern of behavior from past reports?
 
+![Impact vs risk matrix is CC-BY-SA 3.0 Safety First PDX and Otter Tech](https://raw.githubusercontent.com/sagesharp/code-of-conduct-template/master/procedures/impact-vs-risk-matrix.png)
+
 # Examples of report evaluation
 
 ## Online communities
@@ -73,4 +75,4 @@
 # Attribution
 
 * Code of Conduct template was created by [Otter Tech](https://otter.technology/code-of-conduct-training) and is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/)
-* Impact vs risk assessment is licensed under a [Creative Commons Attribution Share-Alike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/) by Audrey Eschright of [Safety First PDX](http://safetyfirstpdx.org/)
+* Impact vs risk assessment is licensed under a [Creative Commons Attribution Share-Alike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/) by Audrey Eschright of [Safety First PDX](http://safetyfirstpdx.org/) and [Otter Tech](https://otter.technology/code-of-conduct-training)
