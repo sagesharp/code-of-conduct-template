@@ -14,6 +14,8 @@ If there is immediate danger at an event (e.g. occurrence or threat of physical 
 [FIXME: Not all event organizers are comfortable with having any incident responder handle unsafe situations. The lead event organizers should make the decision to include this text.]
 If an incident is creating a physically unsafe situation, any incident responder has the power to immediately decide a response without convening a meeting of the Code of Conduct committee. Examples of unsafe situations needing immediate response include: a physical fight, sexual assault or groping, stalking, drunken attendees, or publishing personal contact information. The incident responder can take any action needed to de-escalate the situation, up to and including a temporary ban for the remainder of the event, or a week-long ban from an online space. Longer bans or permanent bans from all future events or the online community should be decided on by the Code of Conduct committee.
 
+If there is an online incident that could threaten someone's physical safety or mental health, only involve law enforcement if the person at risk asks you to. This includes situations such as stalking or sharing personal information publicly in order to encourage harassment (doxxing).
+
 # Attribution
 
 * Code of Conduct template was created by [Otter Tech](https://otter.technology/code-of-conduct-training) and is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/)
