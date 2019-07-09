@@ -98,4 +98,4 @@ Sometimes reports take more time to discuss or follow up on. After one week of a
 
 # Attribution
 
-This procedure has been adapted from the Ada Initiative’s guide titled "[Conference anti-harassment/Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)" and has been updated by [Otter Tech](https://otter.technology/code-of-conduct-training).
+This procedure has been adapted from the Ada Initiative's guide titled "[Conference anti-harassment/Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)", which is licensed [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/). It has been modified by [Otter Tech](https://otter.technology/code-of-conduct-training).
