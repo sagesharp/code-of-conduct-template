@@ -10,7 +10,7 @@ What follows are examples of possible responses to an incident report. This list
 * Ending a talk that violates the Code of Conduct early
 * Not publishing the video or slides of a talk that violated the Code of Conduct
 * Not allowing a speaker who violated the Code of Conduct to give (further) talks at the event now or in the future
-* Immediately ending any event volunteer responsibilities and privileges the a person holds
+* Immediately ending any event volunteer responsibilities and privileges a person holds
 * Requiring that a person not volunteer for future events (either indefinitely or for a certain time period)
 * Requiring that a person refund any travel grants and similar they received
 * Revoking sponsor agreements, refunding sponsorship, and removing sponsor promotion (such as logos or banners)

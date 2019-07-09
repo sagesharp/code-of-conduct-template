@@ -7,7 +7,7 @@ When a report comes in via email:
  * Thank the reporter for sending in an incident report
  * Give them a timeline for when the incident will be discussed by the committee
 
-After you have talked to the reported person, follow up with the report. You can talk to them in person or send them an email.
+After you have talked to the reported person, follow up with the reporter. You can talk to them in person or send them an email.
 
 If the report was determined to be a Code of Conduct violation, follow up with the reporter to:
 
