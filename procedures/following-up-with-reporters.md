@@ -12,7 +12,7 @@ After you have talked to the reported person, follow up with the reporter. You c
 If the report was determined to be a Code of Conduct violation, follow up with the reporter to:
 
  * Outline what behavioral modification plan was given to the reported person.
- * Make sure to mention if the reporter was told not to contact the reporter.
+ * Make sure to mention if the reported person was told not to contact the reporter.
  * Thank them for their report.
  * Ask them to make an additional report if any other behavior makes them feel unsafe or unwelcome.
 
